@@ -1,0 +1,70 @@
+.containerForm{
+    background-color: #f7c627;
+    margin: 10px;
+    
+    min-width: 230px;
+}
+
+.Form{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.divFormInput{
+    padding: 10px;
+    
+}
+
+.divFormInput{
+    text-transform: capitalize;
+    
+}
+
+.labelFormInput{
+    width: 70px;
+}
+
+.inputForm{
+    height: 20px;
+}
+
+.containerFromBtn{
+    width: 100%;
+    text-align: center;
+}
+
+.btnForm{
+    margin: 10px;
+    min-width: 80px;
+}
+
+.containerTable{
+    margin: 10px;
+}
+
+.table{
+    border: #00c solid 1px;
+    width: 100%;
+    padding: 5px 0px;
+}
+
+.thead{
+    background-color: #00c;
+    color: #fff;
+}
+
+.tdTbody{
+    border-bottom: #a7a5a1 solid 1px;
+}
+
+.tdBodyBtn{
+    display: flex;
+    justify-content: center;
+}
+
+.btnSelecionar{
+    background-color: brown;
+    color: #fff;
+    height: 30px;
+}
